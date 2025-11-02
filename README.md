@@ -24,3 +24,12 @@ Each animation focuses on revealing a core idea or concept, breaking it down int
 - `/manim_scripts`: raw Manim code
 - `/notebooks`: design and sketches
 - `/assets`: visual identity resources
+
+---
+
+## 📖 Catalog of Animations
+
+A complete list of visual explanations can be found in the [`CATALOG.md`](./CATALOG.md) file. This file provides:
+| Title | Concept | Video | Description |
+|-------|---------|-------|-------------|
+| Video title  | Topic of core concept | Link to the rendered video (on GitHub) | Short description of the idea visualized |
