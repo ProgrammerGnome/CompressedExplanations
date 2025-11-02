@@ -1,9 +1,9 @@
 # 📺 Compressed Explanations
 
-### Computer Science, Mathematics. Mind. No Words.
+### Computer Science, Mathematics. Mind. No Speech.
 
-A collection of **visual, wordless explanations** built using [Manim](https://www.manim.community/).  
-The goal of this project is to **make complex concepts immediately intuitive**, showing the essence of ideas through motion, structure, and visual reasoning — **without narration or text**.  
+A collection of **visual, silent explanations** built using [Manim](https://www.manim.community/).  
+The goal of this project is to **make complex concepts immediately intuitive**, showing the essence of ideas through motion, structure, and visual reasoning — **without narration**.  
 Each animation focuses on revealing a core idea or concept, breaking it down into structured steps and visualized meaning.
 
 ---
