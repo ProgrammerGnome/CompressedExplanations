@@ -30,6 +30,6 @@ Each animation focuses on revealing a core idea or concept, breaking it down int
 ## 📖 Catalog of Animations
 
 A complete list of visual explanations can be found in the [`CATALOG.md`](./CATALOG.md) file. This file provides:
-| Title | Concept | Video | Description | Level |
-|-------|---------|-------|-------------|-------|
-| Video title  | Topic of core concept | Link to the rendered video (on GitHub) | Short description of the idea visualized | High school or university |
+| Title | Video | Level |
+|-------|-------|-------|
+| Video title | Link to the rendered video (on GitHub) | High school or university |
