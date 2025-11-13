@@ -32,4 +32,4 @@ Each animation focuses on revealing a core idea or concept, breaking it down int
 A complete list of visual explanations can be found in the [`CATALOG.md`](./CATALOG.md) file. This file provides:
 | Title | Video | Level |
 |-------|-------|-------|
-| Video title | Link to the rendered video (on YouTube) | High school or university |
+| Video title | Link to the rendered video (on YouTube) | High school or university or mit-ocw |
